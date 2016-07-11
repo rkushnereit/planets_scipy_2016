@@ -1,3 +1,10 @@
 Cold and dry, but everything is my favorite color.
 The two moons may be a problem for wolfman.
+<<<<<<< HEAD
+
+=======
+Collaboration adding a line
+
 Owner making a change.
+
+>>>>>>> cbb0697e49a47a238ba81d4e03feb640700a428e
